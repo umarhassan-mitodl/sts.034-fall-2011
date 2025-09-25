@@ -34,6 +34,7 @@
     "website": "sts-034-science-communication-a-practical-guide-fall-2011"
   },
   "course_title": "Science Communication: A Practical Guide",
+  "hide_download": true,
   "course_description": "This class develops the abilities of students to communicate science effectively in a variety of real-world contexts. It covers strategies for dealing with complex areas like theoretical physics, genomics and neuroscience, and addresses challenges in communicating about topics such as climate change and evolution. Projects focus on speaking and writing, being an expert witness, preparing briefings for policy-makers, writing blogs, and giving live interviews for broadcast, as well as the creation of an interactive exhibit for display in the MIT Museum.\n",
   "department_numbers": [
     "STS"
@@ -44,6 +45,7 @@
     "content": "df3b66f2-98af-bfa9-b335-a2eb72fe3bfe",
     "website": "sts-034-science-communication-a-practical-guide-fall-2011"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Presentation Assignments",
