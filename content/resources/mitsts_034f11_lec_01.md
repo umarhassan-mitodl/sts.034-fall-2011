@@ -5,6 +5,8 @@ description: 'This resource contains information on why be a science communicato
 file: /courses/sts-034-science-communication-a-practical-guide-fall-2011/faec3f5ef6e6cc249175542527242096_MITSTS_034F11_lec_01.pdf
 file_size: 1166623
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

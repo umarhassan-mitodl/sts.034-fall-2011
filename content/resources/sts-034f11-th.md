@@ -5,6 +5,8 @@ description: Leslie Hawthorn, Jacob Kaplan-Moss, and Robert Lofthouse present to
 file: /courses/sts-034-science-communication-a-practical-guide-fall-2011/df3b66f298afbfa9b335a2eb72fe3bfe_sts-034f11-th.jpg
 file_size: 10538
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Leslie Hawthorn, Jacob Kaplan-Moss, and Robert Lofthouse present together
     at DjangoCon 2008. (Photo courtesy of [Jacob Kaplan-Moss](http://www.flickr.com/photos/jacobian/2867713399/)
