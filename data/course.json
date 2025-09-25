@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Technical Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ]
+  ],
+  "legacy_uid": "98a60341-7d14-e94e-8c99-c87d195dc3d0",
+  "instructors": {
+    "content": [
+      "92e797ef-d94c-a78e-991f-4ab72112a8b5",
+      "de846552-7f8e-1f31-3320-d5e0db840e01"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2fa94296-51d9-e74f-1d77-c10c0d0e0f15",
+    "website": "sts-034-science-communication-a-practical-guide-fall-2011"
+  },
+  "course_title": "Science Communication: A Practical Guide",
+  "course_description": "This class develops the abilities of students to communicate science effectively in a variety of real-world contexts. It covers strategies for dealing with complex areas like theoretical physics, genomics and neuroscience, and addresses challenges in communicating about topics such as climate change and evolution. Projects focus on speaking and writing, being an expert witness, preparing briefings for policy-makers, writing blogs, and giving live interviews for broadcast, as well as the creation of an interactive exhibit for display in the MIT Museum.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.034",
+  "course_image_thumbnail": {
+    "content": "df3b66f2-98af-bfa9-b335-a2eb72fe3bfe",
+    "website": "sts-034-science-communication-a-practical-guide-fall-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "837ac730-036b-4cc4-9f44-606d9793a83a",
+  "site_short_id": "sts.034-fall-2011",
+  "site_url_path": "courses/sts-034-science-communication-a-practical-guide-fall-2011",
+  "title": "Course Metadata"
+}
