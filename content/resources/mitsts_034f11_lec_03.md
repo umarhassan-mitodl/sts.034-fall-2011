@@ -6,8 +6,6 @@ description: This resource contains information on exhibiting science, the MIT m
 file: /courses/sts-034-science-communication-a-practical-guide-fall-2011/4c95decc724fcf5ae75be32868ae7edf_MITSTS_034F11_lec_03.pdf
 file_size: 71697
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
