@@ -53,7 +53,7 @@ Rivers of Ice: Vanishing Glaciers in the Greater Himalaya
 Guest speaker: David Breashears, director of Glacierworks
 
 {{< tdclose >}}{{< tdopen >}}
-Find out all you can about David Breashears, President of Glacierworks Inc. Your starting point is: [http://davidbreashears.com/about.html](http://davidbreashears.com/about.html).
+Find out all you can about David Breashears, President of Glacierworks Inc. Your starting point is: {{% resource_link "b3595758-a830-4523-8f1e-06dfce5d07a2" "http://davidbreashears.com/about.html" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -109,7 +109,7 @@ None assigned.
 Guest Speaker: David Goldston
 {{< tdclose >}}{{< tdopen >}}
 
-Find information online about our guest speaker, David Goldston, online. Make sure you find out about his former work for Congress (as Staff Director of the House Committee on Science), and his current work at the National Resources Defense Council. [Begin here:](https://www.nrdc.org/experts/david-goldston)
+Find information online about our guest speaker, David Goldston, online. Make sure you find out about his former work for Congress (as Staff Director of the House Committee on Science), and his current work at the National Resources Defense Council. {{% resource_link "1616d800-aae6-4e65-8c97-4b62f903e18b" "Begin here:" %}}
 
 Come with at least 3 questions for David about communicating science for policy.
 
@@ -118,7 +118,7 @@ Come with at least 3 questions for David about communicating science for policy.
 {{< tdclose >}}{{< tdopen >}}
 Science in the Blogosphere
 {{< tdclose >}}{{< tdopen >}}
-Identify a science blog of your choice from the Discover Magazine "stable" of blogs available at: [http://blogs.discovermagazine.com/](http://blogs.discovermagazine.com/), follow it for at least three days during the week preceding this class, and write a short critical review of it. What is the blog trying to do, and how well is it doing it? Come to class prepared to give a short (2 minute) review of your chosen blog.
+Identify a science blog of your choice from the Discover Magazine "stable" of blogs available at: {{% resource_link "1bd7cad7-c6ab-4b2d-9bf2-03a0f185a60c" "http://blogs.discovermagazine.com/" %}}, follow it for at least three days during the week preceding this class, and write a short critical review of it. What is the blog trying to do, and how well is it doing it? Come to class prepared to give a short (2 minute) review of your chosen blog.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
@@ -131,9 +131,9 @@ Guest Speaker: Jonathan Corum, science graphics editor at the New York Times
 
 View the following visualizations before class, and reflect on what you think are effective elements of using visualization to communicate science. Jot down your ideas for class.
 
-- Jonathan Corum's graphics and maps for the Science Times (Click on Maps tab after viewing graphics): [http://13pt.com/graphics/](http://13pt.com/graphics/)
-- Drew Berry's animation of Malaria life cycle: [www.hhmi.org/biointeractive/disease/malaria-human.html](https://www.wehi.edu.au/wehi-tv/malaria-lifecycle-part-1-human-host)
-- Dept of Energy award-winning visualizations from 2009: [www.wired.com/wiredscience/2009/08/visualizations/all/1](http://www.wired.com/wiredscience/2009/08/visualizations/all/1)
+- Jonathan Corum's graphics and maps for the Science Times (Click on Maps tab after viewing graphics): {{% resource_link "37983177-d809-4039-8a19-075062c49863" "http://13pt.com/graphics/" %}}
+- Drew Berry's animation of Malaria life cycle: {{% resource_link "910d1bd6-feda-4338-9405-c2f2a364683f" "www.hhmi.org/biointeractive/disease/malaria-human.html" %}}
+- Dept of Energy award-winning visualizations from 2009: {{% resource_link "3fd310d2-edbc-4458-8b1e-3fdbe5b378c9" "www.wired.com/wiredscience/2009/08/visualizations/all/1" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
